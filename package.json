@@ -1,0 +1,16 @@
+{
+  "name": "signalk-websocket-provider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jeremy Foster <jeremy.foster@live.com> (http://codefoster.com)",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "@signalk/client": "^0.2.1",
+    "@types/node": "^10.3.2"
+  }
+}
